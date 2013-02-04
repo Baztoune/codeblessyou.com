@@ -1,6 +1,13 @@
-# Jekyll
-permalink: /:title/
-paginate: 10 
-exclude: 
+markdown: rdiscount
+pygments: true
+permalink: /:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
 name: Code Bless You!
-baseurl: /codeblessyou.com
+url: /codeblessyou.com
+description: A fantastic blog that is fantastic.
+twitter: baztoune
+github: Baztoune
+gravatar_url: http://gravatar.com/avatar/744bca4dd4c3ed1ff17933430412079c
