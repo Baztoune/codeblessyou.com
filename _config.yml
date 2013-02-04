@@ -2,5 +2,5 @@
 permalink: /:title/
 paginate: 10 
 exclude: 
-name: Jekyll Bootstrap
+name: Code Bless You!
 baseurl: /codeblessyou.com
